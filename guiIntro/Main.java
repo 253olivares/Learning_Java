@@ -1,4 +1,4 @@
-package guiIntro.src;
+package guiIntro;
 
 import javax.swing.JOptionPane;
 

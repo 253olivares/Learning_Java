@@ -1,4 +1,4 @@
-package mathCalss.src;
+package mathCalss;
 
 import java.util.Scanner;
 

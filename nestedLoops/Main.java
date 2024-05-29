@@ -1,4 +1,4 @@
-package nestedLoops.src;
+package nestedLoops;
 
 import java.util.Scanner;
 

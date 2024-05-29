@@ -1,4 +1,4 @@
-package firstNewProject.src;
+package firstNewProject;
 
 // this is how our code begins to run 
 // this starts our code no project can begin with out this code

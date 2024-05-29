@@ -1,4 +1,4 @@
-package ifStatements.src;
+package ifStatements;
 
 public class Main {
     public static void main(String[] args) {

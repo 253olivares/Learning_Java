@@ -1,4 +1,4 @@
-package forEachLoop.src;
+package forEachLoop;
 
 import java.util.ArrayList;
 
