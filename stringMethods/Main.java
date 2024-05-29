@@ -1,4 +1,4 @@
-package stringMethods.src;
+package stringMethods;
 
 public class Main {
     public static void main(String[] args) {

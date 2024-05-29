@@ -1,4 +1,4 @@
-package variablesInJava.src;
+package variablesInJava;
 
 public class Main {
     public static void main(String[] args) {

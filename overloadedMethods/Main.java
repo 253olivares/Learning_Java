@@ -1,4 +1,4 @@
-package overloadedMethods.src;
+package overloadedMethods;
 
 public class Main {
     public static void main(String[] args) {

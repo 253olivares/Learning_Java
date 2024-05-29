@@ -1,4 +1,4 @@
-package twodArrays.src;
+package twodArrays;
 
 public class Main {
     public static void main(String[] args) {

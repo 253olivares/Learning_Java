@@ -1,4 +1,4 @@
-package twodArrayList.src;
+package twodArrayList;
 
 import java.util.ArrayList;
 
