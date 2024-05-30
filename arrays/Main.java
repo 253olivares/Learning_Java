@@ -11,7 +11,7 @@ public class Main {
         System.out.println(cars[1]); // Corvette
         System.out.println(cars[2]); // tesla
 
-        System.out.println(cars[4]); // error
+        // System.out.println(cars[4]); // error
 
         // additionally we can not put in data does not fit our data type for example
 
@@ -22,6 +22,7 @@ public class Main {
 
         // creates an empty array with 3 spots
         String[] car = new String[3];
+        cars[4] = "Chevy";
 
         for (int i = 0; i < cars.length; i++) {
             System.out.println(cars[i]);

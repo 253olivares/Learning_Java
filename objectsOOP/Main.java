@@ -30,7 +30,7 @@ public class Main {
 
         // create a second object instance
         // it will have the same details as the first as we are not updating any of its
-        // information when creating this instance!
+        // information when creating this
         Car myCar2 = new Car();
 
         System.out.println(myCar.color);
