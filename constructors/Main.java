@@ -1,6 +1,15 @@
 package constructors;
 
 public class Main {
+
+    int modelYear;
+    String modelname;
+
+    public Main(int year, String name) {
+        this.modelYear = year;
+        this.modelname = name;
+    }
+
     public static void main(String[] args) {
 
         // constructor = a special method that is fired when a object is instantiated
